@@ -6,7 +6,7 @@ A Junior majoring in Information Science at the University of Maryland pursuing 
 
 I'm a student who is passionate about analyzing data to do exploratory data analysis and to problem solve. Not only that, but also being able to identify trends in data sets through the utilization of programming languages.
 
-I am currently working on projects that deal with scraping data from websites, cleaning data, exploratory data analysis, data visiualization, and much more. 
+I am currently working on a couple of projects that deal with scraping data from websites, cleaning data, performing a few types of analysis, doing exploratory data analysis, and much more.
 
 ---
 
@@ -24,7 +24,6 @@ I am currently working on projects that deal with scraping data from websites, c
 
 You can also find me on linkedin!
 - https://www.linkedin.com/in/ellisdeng/
-
 
 ---
 <!---
