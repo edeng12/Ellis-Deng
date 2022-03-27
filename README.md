@@ -16,6 +16,7 @@ I have created this repository to showcase projects, build on my skills, and kee
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Logo" width="50" height="50">
+
 ---
 
 #### Contact Info
