@@ -2,7 +2,7 @@
 
 ---
 
-A Junior majoring in Information Science at the University of Maryland pursuing a Bachelor's Degree in Data Science and/or Analytics.
+A Senior majoring in Information Science at the University of Maryland pursuing a Bachelor's Degree in Data Science and/or Analytics.
 
 I'm a student who is passionate about analyzing data to do exploratory data analysis, to problem solve, and to make informed decisions. Not only that, but also being able to identify trends in data sets through the utilization of programming languages. I'm always eager to build upon my current programming tools and to learn about new programming languages. 
 
